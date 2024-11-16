@@ -1,9 +1,9 @@
 # Caleb Cranney
 
 <p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=750&pause=1750&color=16FF37&multiline=true&width=435&lines=Hi+there%2C+my+name+is+Caleb;Bioinformatics Software Developer" alt="Typing SVG" />
-  </a>
+  Welcome to my GitHub profile! I am a bioinformatician with a deep interest in software development practices and deep learning (focused primarily on the transformer architecture). I love to code in general, so you will find various other experimental coding hobbies on this page as well. 
+  
+  Feel free to reach out if you have any questions!
 </p>
 <br/>
 
