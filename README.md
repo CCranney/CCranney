@@ -8,6 +8,14 @@
 <br/>
 
 <details open>
+  <summary><h3>⚡️🧠 Career Deep Learning Projects 🧠⚡️</h3></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/xomicsdatascience/AttentionSmithy" target="_blank"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xomicsdatascience&repo=AttentionSmithy&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="xomicsdatascience/AttentionSmithy">    
+    </a>
+  </p>
   <summary><h3>🦠🧬 Career Bioinformatics Projects 🧬🦠</h3></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
