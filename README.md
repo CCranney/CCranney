@@ -1,13 +1,21 @@
 # Caleb Cranney
 
 <p align="left">
-  Welcome to my GitHub profile! I am a bioinformatician with a deep interest in software development practices and deep learning (focused primarily on the transformer architecture). I love to code in general, so you will find various other experimental coding hobbies on this page as well. 
-  
-  Feel free to reach out if you have any questions!
+ Welcome to my GitHub! I am an XR Developer and Bioinformatics Researcher. I engineer spatial computing solutions within the Godot ecosystem, and I specialize in deep learning, specifically architecting Transformer models for domain-specific research. I have a deep passion for robust software development practices in general, so you'll find repositories reflecting both my XR projects, my bioinformatics expertise, and other development projects here. Feel free to reach out if you have any questions or want to collaborate!
 </p>
 <br/>
 
 <details open>
+  <summary><h3>🥽💫 Personal XR Projects (Godot XR) 🥽💫</h3></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://https://github.com/CCranney/eternal-run-sim" target="_blank"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CCranney&repo=eternal-run-sim&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="CCranney/eternal-run-sim">    
+    </a>
+    <a href="https://https://github.com/CCranney/flying-bicycle-sim" target="_blank"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CCranney&repo=flying-bicycle-sim&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB" alt="CCranney/flying-bicycle-sim">    
+    </a>
+  </p>
   <summary><h3>⚡️🧠 Career Deep Learning Projects 🧠⚡️</h3></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
